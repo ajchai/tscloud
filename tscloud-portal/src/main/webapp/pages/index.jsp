@@ -32,7 +32,7 @@
 				      	<img alt="基础设施云" src="${ctx}/images/index/computing_service.png"/> 
 		         	    <div class="text"> 
 			         	   
-			         	     <h2 >基础设施云</h2> 
+			         	     <h2 >IaaS基础设施云</h2> 
 								<ul class="copy"> 
 								  <li>云主机服务，基于虚拟化和自动化技术，可以即需即供，灵活定制扩展的服务器资源服务；</li> 
 								  <li>分布式对象存储服务，可以横向扩展，以灵活的扩展性和低廉的价格实现PB级数据的存储；</li> 
